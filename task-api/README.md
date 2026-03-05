@@ -24,8 +24,8 @@ A simple RESTful Task API built with Go and the Gin web framework. This API prov
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tawhidul36/To-Do.git
-   cd go-practice
+   git clone https://github.com/tawhidul36/Go-Practice.git
+   cd task-api
    ```
 
 2. **Install dependencies:**
@@ -119,10 +119,4 @@ curl -X DELETE http://localhost:8080/tasks/1
 | `title`| string  | Task title               |
 | `done` | boolean | Task completion status   |
 
-## 🤝 Contributing
 
-Feel free to fork this repository and submit pull requests!
-
-## 📄 License
-
-This project is licensed under the MIT License.
